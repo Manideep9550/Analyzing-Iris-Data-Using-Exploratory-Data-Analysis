@@ -3,7 +3,8 @@ Id: CT08DS215
 Domain: Data Science
 Duration: 10-05-2024 to 10-06-2024
 Mentor Name: Sravani Gouni
-description:
+
+Description:
 ------------
 Exploratory Data Analysis (EDA) is a crucial preliminary step in the data analysis process, aimed at gaining insights and understanding the underlying patterns, distributions, and relationships within a dataset. It involves a series of techniques and visualizations to summarize the main characteristics of the data, identify potential outliers or anomalies, and formulate hypotheses for further investigation.
 
